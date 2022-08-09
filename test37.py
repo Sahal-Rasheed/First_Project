@@ -1,3 +1,5 @@
+Testing----------------------------------------------------------------------
+
 num=12345 #declare a number to a variable
 sum=0 #initialize sum as zero
 for i in range(len(str(num))): #convert integer to string and take its length
